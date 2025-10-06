@@ -1,2 +1,2 @@
 # Salary-Prediction-Analysis-Using-Machine-Learning
-Salary Prediction Analysis Using Machine Learning
+In this study we provide insights that are useful to aspiring job applicants and organizations through various statistical analyses of the employees’ compensation data openly available at the official governmental website of the USA [1]. It is crucial to understand complex relationships between employees’ compensation and several other workforce dynamics for effective Human Resource Management (HRM) which assists in employees’ retention and overall organizational growth. For this reason, we employed various statistical analyses along with Artificial Intelligence (AI) and Machine Learning (ML) algorithms for understanding and evaluating such complex relationships.
